@@ -3,7 +3,7 @@ title: "NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocki
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-08-TIP-NesTDNet-1
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2024-03-08
 venue: 'IEEE Transactions on Image Processing'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
