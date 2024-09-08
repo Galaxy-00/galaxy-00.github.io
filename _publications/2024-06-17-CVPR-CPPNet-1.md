@@ -1,5 +1,5 @@
 ---
-title: "CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensin"
+title: "CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing"
 collection: publications
 category: conferences
 permalink: /publication/2024-06-17-CVPR-CPPNet-1
