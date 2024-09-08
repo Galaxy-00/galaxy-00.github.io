@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2025 - Present -->
+* Looking for a PhD position (Now!)
 * M.S. in School of Software, Northwestern Polytechnical University, 2022 - 2025 (Expected)
 * B.S. in School of Software, Northwestern Polytechnical University, 2018 - 2022
 
