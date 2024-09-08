@@ -3,7 +3,7 @@ title: "CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA
 collection: publications
 category: conferences
 permalink: /publication/2024-06-17-CVPR-CPPNet-1
-# excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2024-06-17
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html'
