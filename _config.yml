@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhen Guo"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Zhen Guo"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhen Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi"
   location         : "China"
-  employer         : "Northwestern Polytechnical University"
+  employer         : "NWPU"
   uri              : # URL
   email            : "guozhen2022@mail.nwpu.edu.cn" 
 
