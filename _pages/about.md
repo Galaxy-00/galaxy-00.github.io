@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year postgraduate student from [School of Software](https://ruanjian.nwpu.edu.cn/), [Northwestern Polytechnical University University (NWPU)](https://www.nwpu.edu.cn/). My research interest includes computer vision, inverse problems, and computational imaging.
+I'm a third year postgraduate student from [School of Software](https://ruanjian.nwpu.edu.cn/), [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/). My research interest includes computer vision, inverse problems, compressive sensing and computational imaging.
 
 I am very fortunate to be advised by [Prof. Gan](https://teacher.nwpu.edu.cn/2020050020.html) of IIP Lab from School of Software, NWPU.
 
