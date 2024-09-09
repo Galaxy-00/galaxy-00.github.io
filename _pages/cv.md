@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Curriculum Vitae](../assets/CV.pdf).
+
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2025 - Present -->
-* Looking for a PhD position (Now!)
 * M.S. in School of Software, Northwestern Polytechnical University, 2022 - 2025 (Expected)
 * B.S. in School of Software, Northwestern Polytechnical University, 2018 - 2022
 
