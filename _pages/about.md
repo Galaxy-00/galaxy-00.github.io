@@ -13,4 +13,5 @@ I am very fortunate to be advised by [Prof. Gan](https://teacher.nwpu.edu.cn/202
 
 <strong>Currently, I am looking for a PhD position in Fall 2025! You can find my CV [here](../assets/CV.pdf).</strong>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xef3YaWCa_4C2HWT9x9AhoFCjs4A2K58YQAvrJvqqMQ"></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xef3YaWCa_4C2HWT9x9AhoFCjs4A2K58YQAvrJvqqMQ&cl=ffffff&w=a"></script>
