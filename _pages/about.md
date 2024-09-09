@@ -11,8 +11,7 @@ I'm a third year postgraduate student from [School of Software](https://ruanjian
 
 I am very fortunate to be advised by [Prof. Gan](https://teacher.nwpu.edu.cn/2020050020.html) of IIP Lab from School of Software, NWPU.
 
-
-<!-- You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
+<strong>Currently, I am looking for a PhD position in Fall 2025! You can find my CV here: [Curriculum Vitae](../assets/CV.pdf).</strong>
 
 
 <!-- 
