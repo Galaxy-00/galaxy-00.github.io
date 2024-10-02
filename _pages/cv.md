@@ -14,8 +14,8 @@ You can find my CV here: [Curriculum Vitae](../assets/CV.pdf).
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2025 - Present -->
-* M.S. in Northwestern Polytechnical University, 2022.09 - 2025.06 (Expected)
-* B.S. in Northwestern Polytechnical University, 2018.09 - 2022.06
+* MS in Northwestern Polytechnical University, 2022.09 - 2025.06 (Expected)
+* BS in Northwestern Polytechnical University, 2018.09 - 2022.06
 
 <!-- Work experience
 ======
