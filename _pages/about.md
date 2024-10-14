@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<strong>* Currently, I am looking for a PhD position in Fall 2025! You can find my CV [here](../assets/CV.pdf).</strong>
+<strong>* I am currently seeking a PhD position for Fall 2025! You can view my CV [here](../assets/CV.pdf).</strong>
 
-I'm a third-year postgraduate student from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/). My research interests include computer vision, inverse problems, compressive sensing and computational imaging.
+I am Zhen Guo, a third-year Master’s student in Electronic and Information Engineering at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/) under the supervision of [Prof. Hongping Gan](https://teacher.nwpu.edu.cn/2020050020.html), specializing in computer vision, inverse problems, compressive sensing, and computational imaging. 
+My work primarily focuses on developing deep unfolding networks to tackle complex imaging tasks like compressive sensing. 
+I have contributed to multiple high-impact research projects and published papers in top-tier conferences and journals, such as CVPR and IEEE Transactions on Image Processing.
 
-I am very fortunate to be advised by [Prof. Gan](https://teacher.nwpu.edu.cn/2020050020.html).
-
+<br>
 <br>
 <br>
 <br>
