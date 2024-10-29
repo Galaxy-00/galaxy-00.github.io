@@ -11,7 +11,17 @@
 </div>
 </div>
 
-- ``IEEE TIP 2024`` [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452), Hongping Gan, **Zhen Guo** and Feng Liu
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/NesTDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452)
+
+Hongping Gan, **Zhen Guo** and Feng Liu
+
+[**Project**](https://github.com/ICSResearch/NesTD-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
+</div>
+</div>
 
 
 <!--
