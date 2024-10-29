@@ -6,6 +6,8 @@
 [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html)
 
 **Zhen Guo** and Hongping Gan
+</div>
+</div>
 
 - ``IEEE TIP 2024`` [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452), Hongping Gan, **Zhen Guo** and Feng Liu
 
