@@ -7,7 +7,7 @@
 
 **Zhen Guo** and Hongping Gan
 
-[**Project**](https://github.com/ICSResearch/CPP-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
+[**Code**](https://github.com/ICSResearch/CPP-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
 </div>
 </div>
 
@@ -17,9 +17,9 @@
 
 [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452)
 
-Hongping Gan, **Zhen Guo** and Feng Liu
+Hongping Gan, **Zhen Guo**, Feng Liu
 
-[**Project**](https://github.com/ICSResearch/NesTD-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
+[**Code**](https://github.com/ICSResearch/NesTD-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
 </div>
 </div>
 
