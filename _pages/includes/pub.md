@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CPPNet_CVPR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhen Guo**, Hongping Gan. [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 25086-25095.
+**Zhen Guo** and Hongping Gan. [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 25086-25095.
 </div>
 </div>
 
@@ -11,7 +11,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/NesTDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hongping Gan, **Zhen Guo**, Feng Liu. [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452). IEEE Transactions on Image Processing , 33:1923-1937, 2024.
+Hongping Gan, **Zhen Guo**, and Feng Liu. [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452). IEEE Transactions on Image Processing , 33:1923-1937, 2024.
 </div>
 </div>
 
