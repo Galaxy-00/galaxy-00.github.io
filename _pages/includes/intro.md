@@ -1,4 +1,4 @@
-# About me
+# 👀 About Me
 
 My name is Zhen Guo, and I am a third-year Master’s student in Electronic and Information Engineering at [Northwestern Polytechnical University (NPU)](https://en.nwpu.edu.cn/), under the supervision of [Prof. Hongping Gan](https://teacher.nwpu.edu.cn/2020050020.html). I earned my Bachelor of Engineering in Software Engineering from NPU in 2022.
 
