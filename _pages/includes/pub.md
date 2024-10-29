@@ -1,5 +1,4 @@
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CPPNet_CVPR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -7,7 +6,7 @@
 </div>
 </div>
 
-
+<!--------------------------------------------------------------------------------------------------------->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/NesTDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -15,6 +14,7 @@ Hongping Gan, **Zhen Guo**, and Feng Liu. [NesTD-Net: Deep NESTA-Inspired Unfold
 </div>
 </div>
 
+<!--------------------------------------------------------------------------------------------------------->
 
 <!--
 ## 🎙 Speech Synthesis
