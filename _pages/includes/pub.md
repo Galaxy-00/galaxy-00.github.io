@@ -5,9 +5,9 @@
 
 [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html)
 
-**Zhen Guo** and Hongping Gan
+**Zhen Guo**, Hongping Gan
 
-[**Code**](https://github.com/ICSResearch/CPP-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
+[**Code**](https://github.com/ICSResearch/CPP-Net)
 </div>
 </div>
 
@@ -19,7 +19,7 @@
 
 Hongping Gan, **Zhen Guo**, Feng Liu
 
-[**Code**](https://github.com/ICSResearch/NesTD-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
+[**Code**](https://github.com/ICSResearch/NesTD-Net)
 </div>
 </div>
 
