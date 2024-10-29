@@ -1,13 +1,13 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CPPNet_CVPR2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CPPNet_CVPR2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html)
 
-*Zhen Guo* and Hongping Gan
+**Zhen Guo** and Hongping Gan
 
-- ``IEEE TIP 2024`` [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452), Hongping Gan, *Zhen Guo* and Feng Liu
+- ``IEEE TIP 2024`` [NesTD-Net: Deep NESTA-Inspired Unfolding Network With Dual-Path Deblocking Structure for Image Compressive Sensing](https://ieeexplore.ieee.org/document/10460452), Hongping Gan, **Zhen Guo** and Feng Liu
 
 
 <!--
