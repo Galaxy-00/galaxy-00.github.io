@@ -1,11 +1,13 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CPPNet_CVPR2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CPPNet_CVPR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 [CPP-Net: Embracing Multi-Scale Feature Fusion into Deep Unfolding CP-PPA Network for Compressive Sensing](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_CPP-Net_Embracing_Multi-Scale_Feature_Fusion_into_Deep_Unfolding_CP-PPA_Network_CVPR_2024_paper.html)
 
 **Zhen Guo** and Hongping Gan
+
+[**Project**](https://github.com/ICSResearch/CPP-Net) <strong><span class='show_paper_citations' data='u2VxD6YAAAAJ'></span></strong>
 </div>
 </div>
 
