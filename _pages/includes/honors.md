@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2024.11* National Scholarship
 - *2024.10* Outstanding Graduate Student
 - *2024.10* Research and Innovation Special Scholarship (Top 0.27%, awarded to 100 students university-wide)
 - *2024.10* First-Class Academic Scholarship (Top 10%)
