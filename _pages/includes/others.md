@@ -3,6 +3,10 @@
 - *2022.09 - 2025.06 (Expected)*, Master, Northwestern Polytechnical University, Taicang.
 - *2018.09 - 2022.06*, Undergraduate, Northwestern Polytechnical University, Xi'an.
 
+# 💻 Internships
+- *2024.11 - Present*, OPPO Research Institute, Shenzhen.
+
+
 <!--
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
