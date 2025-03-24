@@ -9,7 +9,7 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
-Hongping Gan, **Zhen Guo**, and Feng Liu. [USB-Net: Unfolding Split Bregman Method With Multi-Phase Feature Integration for Compressive Imaging](https://ieeexplore.ieee.org/document/10857953/). IEEE Transactions on Image Processing, 34:925-938, 2025.
+**Zhen Guo**, Hongping Gan. [USB-Net: Unfolding Split Bregman Method With Multi-Phase Feature Integration for Compressive Imaging](https://ieeexplore.ieee.org/document/10857953/). IEEE Transactions on Image Processing, 34:925-938, 2025.
 </div>
 </div>
 
