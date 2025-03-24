@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhen Guo (郭震)"
+title                    : "G"
 description              : "Master's Student."
 repository               : "Galaxy-00/galaxy-00.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhen GUO"
-  avatar           : "images/profile.png"
+  name             : "GUO Zhen"
+  avatar           : "images/profile.jpg"
   bio              : "Hi there🤗"
   location         : "Taicang, China"
   employer         :
