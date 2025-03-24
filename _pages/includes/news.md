@@ -2,4 +2,4 @@
 <!--
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
 -->
-- *2025.3*: Working hard
+- *2025.03*: Working hard
