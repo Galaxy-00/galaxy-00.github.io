@@ -18,7 +18,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2024</div>
-      <img src='images/CPPNet_CVPR2024.png' alt="sym" width="100%">
+<!--       <img src='images/CPPNet_CVPR2024.png' alt="sym" width="100%"> -->
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
