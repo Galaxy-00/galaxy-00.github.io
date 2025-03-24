@@ -2,4 +2,4 @@
 <!--
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
 -->
-- *2024.10*: **I am actively looking for a PhD position in Fall 2025.**
+- *2025.3*: Working hard
