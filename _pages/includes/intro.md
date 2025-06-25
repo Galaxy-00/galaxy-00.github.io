@@ -1,7 +1,4 @@
 # 👀 About Me
 
-My name is Zhen Guo, and I am a third-year Master’s student in Electronic and Information Engineering at [Northwestern Polytechnical University (NPU)](https://en.nwpu.edu.cn/), under the supervision of [Prof. Hongping Gan](https://teacher.nwpu.edu.cn/2020050020.html). I earned my Bachelor of Engineering in Software Engineering from NPU in 2022.
-
-<!--During my master's studies, my work primarily involves developing deep unfolding networks to address inverse imaging problems, such as <strong>image compressive sensing</strong>, <strong>compressive sensing MRI</strong>, and <strong>snapshot compressive imaging</strong>.
-I have contributed to several high-impact research projects and published papers in top-tier conferences and journals, including <strong>CVPR</strong> and <strong>IEEE TIP</strong>.-->
+My name is Zhen Guo. I obtained my Master’s degree in Electronic and Information Engineering from Northwestern Polytechnical University (NPU), where I was supervised by Prof. Hongping Gan. I previously earned my Bachelor of Engineering in Software Engineering from NPU in 2022.
 
