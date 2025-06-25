@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "G"
-description              : "Master's Student."
+title                    : "GZ"
+description              : "Student"
 repository               : "Galaxy-00/galaxy-00.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   name             : "GUO Zhen"
   avatar           : "images/profile.jpg"
   bio              : "Hi there🤗"
-  location         : "Taicang, China"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=u2VxD6YAAAAJ"
