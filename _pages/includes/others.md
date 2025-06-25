@@ -1,10 +1,10 @@
 
 # 📖 Educations
-- *2022.09 - 2025.06 (Expected)*, Master, Northwestern Polytechnical University, Taicang.
-- *2018.09 - 2022.06*, Undergraduate, Northwestern Polytechnical University, Xi'an.
+- *2022.09 - 2025.06*, Master, Northwestern Polytechnical University.
+- *2018.09 - 2022.06*, Undergraduate, Northwestern Polytechnical University.
 
 # 💻 Internships
-- *2024.11 - Present*, OPPO Research Institute, Shenzhen.
+- *2024.11 - Present*, Y Lab, OPPO Research Institute, Shenzhen.
 
 
 <!--
